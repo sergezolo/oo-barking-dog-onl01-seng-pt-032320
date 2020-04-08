@@ -8,6 +8,7 @@ class Dog
     @dogs_name
   end
   
-  def 
+  def bark
+    puts 
 
 end
